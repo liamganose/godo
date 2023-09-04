@@ -1,5 +1,5 @@
 # godo
-a todo app written in Go
+a todo app written in Go to learn the language and get used to the Cobra/Viper pkgs
 
 ## Running it
 1. Checkout the code
